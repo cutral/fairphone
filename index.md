@@ -9,11 +9,13 @@ output: revealjs::revealjs_presentation
 
 ¿qué tenemos en cuenta al momento de comprar un equipo?
 
-# Un móvil mejor es aquel que se fabrica de manera más justa
+# Un celular mejor es aquel que se fabrica de manera más justa
 
 según la visión de Fairphone
 
 # generar un impacto positivo en la manera de fabricar, usar y reciclar los teléfonos
+
+Celular modular, diseñado para durar
 
 # objetivos de fairphone
 
@@ -34,10 +36,39 @@ Generar un impacto social y medioambiental positivo de principio a fin del ciclo
 
 # objetivos
 
-- 1
-# 
+- productos que duran más
+- modulares
+- fácil reparación
+- software abierto
+- minimizar huella medioambiental
 
-![](img/)
+
+# Materiales Justos
+
+- materiales que lleva tienen impacto en las personas y en el planeta
+- se rastrea la procedencia de las piezas
+- compras responsables en zonas de conflicto
+- usar más materiales reciclados
+
+# enfoque
+
+un cambio positivo en las cadenas de suministro de materiales al desarrollar un marco que permite comprender mejor los problemas, obtener materiales de forma más responsable, aumentar el uso de materiales reciclados y buscar activamente socios que ayuden a alcanzar estas metas
+
+# Buenas condiciones de trabajo
+
+# Reutilización y Reciclaje
+
+- economía circular
+- fomentar la reutilización y reparación
+- investigar las opciones de reciclaje
+- reducir los desechos electrónicos
+
+
+#
+
+![](img/sparepartsheader.png)
+
+#
 
 web fairphone
 - [https://www.fairphone.com/es](https://www.fairphone.com/es)
