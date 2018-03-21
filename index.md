@@ -45,7 +45,7 @@ Generar un impacto social y medioambiental positivo de principio a fin del ciclo
 
 # Materiales Justos
 
-- materiales que lleva tienen impacto en las personas y en el planeta
+- materiales tienen impacto en las personas y en el planeta
 - se rastrea la procedencia de las piezas
 - compras responsables en zonas de conflicto
 - usar más materiales reciclados
@@ -63,6 +63,13 @@ un cambio positivo en las cadenas de suministro de materiales al desarrollar un 
 - investigar las opciones de reciclaje
 - reducir los desechos electrónicos
 
+# manual para capacitar en reciclado
+
+(buscar)
+
+# Características técnicas
+
+¿?
 
 #
 
@@ -70,8 +77,17 @@ un cambio positivo en las cadenas de suministro de materiales al desarrollar un 
 
 #
 
-web fairphone
-- [https://www.fairphone.com/es](https://www.fairphone.com/es)
+# Links
 
-presentación
-- [https://cutral.github.io/fairphone](https://cutral.github.io/fairphone)
+[http://www.fairphone.com/es](http://www.fairphone.com/es)
+
+[https://www.facebook.com/Fairphone](https://www.facebook.com/Fairphone)
+
+[https://twitter.com/fairphone](https://twitter.com/fairphone)
+
+[https://instagram.com/wearefairphone](https://instagram.com/wearefairphone)
+
+[https://www.youtube.com/user/Fairphone](https://www.youtube.com/user/Fairphone)
+
+presentación  
+[https://cutral.github.io/fairphone](https://cutral.github.io/fairphone)
