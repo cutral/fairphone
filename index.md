@@ -102,9 +102,7 @@ un cambio positivo en las cadenas de suministro de materiales al desarrollar un 
 
 [https://twitter.com/fairphone](https://twitter.com/fairphone)
 
-[https://instagram.com/wearefairphone](https://instagram.com/wearefairphone)
-
-[https://www.youtube.com/user/Fairphone](https://www.youtube.com/user/Fairphone)
+[https://instagram.com/fairphone](https://instagram.com/fairphone)
 
 presentación  
 [https://cutral.github.io/fairphone](https://cutral.github.io/fairphone)
