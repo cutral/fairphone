@@ -15,7 +15,15 @@ según la visión de Fairphone
 
 # industria electrónica
 
-1. vida media de un celular es 18 meses
+![](img/celulares.jpg)
+
+# industria electrónica
+
+![](img/ewaste.jpg)
+
+#
+
+1. vida media de un celular: 18 meses
 2. mil millones de cel por año
 3. 468.000 cel son desechados c/día
 4. 65 millones tons de basura electrónica (2017)
@@ -24,7 +32,8 @@ según la visión de Fairphone
 7. e-waste, sector que + rápido crece en residuos urbanos
 8. e-waste: productos tóxicos (mercurio, plomo, cadmio)
 9. c/ millón de cels que se reciclan se recuperan 34 kilos de oro, 350 kilos de plata y 16.000 kilos de cobre
-Fuentes: Greenpeace, EPA, The World Counts
+
+Fuente: Greenpeace, EPA, The World Counts
 
 # generar un impacto positivo en la manera de fabricar, usar y reciclar los teléfonos
 
