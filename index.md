@@ -13,6 +13,19 @@ output: revealjs::revealjs_presentation
 
 según la visión de Fairphone
 
+# industria electrónica
+
+1. vida media de un celular es 18 meses
+2. mil millones de cel por año
+3. 468.000 cel son desechados c/día
+4. 65 millones tons de basura electrónica (2017)
+5. 15% al 20% de los aparatos electrónicos se reciclan
+6. 85% e-waste en los vertederos o en incineradoras
+7. e-waste, sector que + rápido crece en residuos urbanos
+8. e-waste: productos tóxicos (mercurio, plomo, cadmio)
+9. c/ millón de cels que se reciclan se recuperan 34 kilos de oro, 350 kilos de plata y 16.000 kilos de cobre
+Fuentes: Greenpeace, EPA, The World Counts
+
 # generar un impacto positivo en la manera de fabricar, usar y reciclar los teléfonos
 
 Celular modular, diseñado para durar
@@ -63,17 +76,23 @@ un cambio positivo en las cadenas de suministro de materiales al desarrollar un 
 - investigar las opciones de reciclaje
 - reducir los desechos electrónicos
 
-# manual para capacitar en reciclado
+#
 
-Miners' guide
+![](img/Urban-MiningMiners.png)
+
+#
+
+![](img/workshop-2013.png)
+
+#
+
+![](img/workshop-2014.png)
 
 # Características técnicas
 
 #
 
 ![](img/sparepartsheader.png)
-
-#
 
 # Links
 
