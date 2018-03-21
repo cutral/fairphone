@@ -65,11 +65,9 @@ un cambio positivo en las cadenas de suministro de materiales al desarrollar un 
 
 # manual para capacitar en reciclado
 
-(buscar)
+Miners' guide
 
 # Características técnicas
-
-¿?
 
 #
 
