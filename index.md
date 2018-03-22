@@ -31,7 +31,7 @@ según la visión de Fairphone
 6. 85% e-waste en los vertederos o en incineradoras
 7. e-waste, sector que + rápido crece en residuos urbanos
 8. e-waste: productos tóxicos (mercurio, plomo, cadmio)
-9. c/ millón de cels que se reciclan se recuperan 34 kilos de oro, 350 kilos de plata y 16.000 kilos de cobre
+9. c/millón reciclados: 34 kg oro, 350 kg plata, 16.000 kg cobre
 
 Fuente: Greenpeace, EPA, The World Counts
 
